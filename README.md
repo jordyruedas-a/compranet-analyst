@@ -71,6 +71,7 @@ This dashboard utilizes the `compranet_limpio.csv` for granular filtering and th
 ---
 
 ## 📁 Repository Structure
+
 ```
 / (Root)
 ├── analisis_compranet.ipynb # Full Python analysis code (Jupyter Notebook)
