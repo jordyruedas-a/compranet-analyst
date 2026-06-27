@@ -110,6 +110,7 @@ This dashboard utilizes the `compranet_limpio.csv` for granular filtering and th
 
 Author: Jordan Emanuel Ruedas Vázquez
 LinkedIn: [https://github.com/jordyruedas-a]
+
 GitHub: [https://github.com/jordyruedas-a/compranet-analyst]
 
 This project was developed as part of a Data Science and Business Intelligence portfolio to demonstrate proficiency in Python, data cleaning, and analytical thinking using open government data.
