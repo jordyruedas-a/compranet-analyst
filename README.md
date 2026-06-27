@@ -71,14 +71,14 @@ This dashboard utilizes the `compranet_limpio.csv` for granular filtering and th
 ---
 
 ## 📁 Repository Structure
+```
 / (Root)
-├── Analisis_Compranet.ipynb # Full Python analysis code (Jupyter Notebook)
-├── compranet_historico.csv # Original raw dataset (1 GB - required for execution)
-├── compranet_limpio.csv # Clean, filtered dataset ready for Power BI
-├── kpis_compranet.csv # Pre-calculated aggregated metrics for dashboards
+├── analisis_compranet.ipynb # Full Python analysis code (Jupyter Notebook)
+├── kpis_compranet.csv # Pre-calculated aggregated KPIs ready for Power BI
 ├── graficos_kpis.png # Generated static visualizations from Python
-├── README.md # This file (Project documentation)
-└── output_graficas/ # (Optional folder containing individual chart PNGs)
+├── README.md # Project documentation
+└── output_graficas/ # (Optional folder if you save individual chart PNGs)
+```
 
 
 
@@ -108,23 +108,12 @@ This dashboard utilizes the `compranet_limpio.csv` for granular filtering and th
 📬 Contact & Portfolio
 
 Author: Jordan Emanuel Ruedas Vázquez
-LinkedIn: [Your LinkedIn Profile Link Here]
-GitHub: [Your GitHub Profile Link Here]
+LinkedIn: [https://github.com/jordyruedas-a]
+GitHub: [https://github.com/jordyruedas-a/compranet-analyst]
 
 This project was developed as part of a Data Science and Business Intelligence portfolio to demonstrate proficiency in Python, data cleaning, and analytical thinking using open government data.
 
 
 
 ---
-
-### 📌 Últimas instrucciones para dejarlo perfecto:
-
-1. **Crea el archivo:** En tu VS Code, crea un archivo nuevo llamado `README.md` (exactamente así). Pega todo el código que te di.
-2. **Guarda el archivo** (Ctrl+S).
-3. **Lo que tienes que llenar tú:**
-   - Cuando hagas tu dashboard en Power BI y lo publiques a la nube (Power BI Service), **copia el enlace público y pégalo donde dice `[🔗 Link to Live Power BI Dashboard]`**.
-   - Agrega tus enlaces reales de LinkedIn y GitHub al final del documento.
-4. **Sube todo a GitHub:** Sube la carpeta completa con el Notebook, los archivos CSV generados, el `README.md` y la imagen `graficos_kpis.png`.
-
-¡Tu portafolio ahora es de primer nivel! Cuando subas el dashboard a Power BI, no olvides actualizar el README con el enlace. Si tienes dudas al subir el dashboard o al hacer el commit en GitHub, aquí estoy. ¡Mucho éxito!
 
